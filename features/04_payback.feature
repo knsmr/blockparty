@@ -15,7 +15,7 @@ Then the contract has the following information
 | registered | 4                |
 | balance    | 4                |
 | attended   | 3                |
-When even organiser pays back
+When event organiser pays back
 Users receive the following
 | Name      | Amount |
 | Thomas    | 1.3333 |
